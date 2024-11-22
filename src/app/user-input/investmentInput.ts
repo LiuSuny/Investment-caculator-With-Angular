@@ -1,6 +1,6 @@
-export type DataType = {
+export type InvestmentInput = {
     initialInvestment: number;
     duration: number;
     expectedReturn: number;
-     annualInvestment: number;
+    annualInvestment: number;
 }
